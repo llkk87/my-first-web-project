@@ -1,0 +1,31 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 1200px;
+  background-color: #fbfbfb;
+}
+
+.heading,
+.main {
+  border-radius: 6px;
+  padding: 0 12px;
+  margin: 1px;
+}
+
+.heading {
+  background-color: #c6e7ff;
+}
+
+.main {
+  background-color: #d4f6ff;
+}
+
+button {
+  background-color: #fbd288;
+  border-style: none;
+  padding: 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  margin: 8px;
+  margin-left: 0;
+}
